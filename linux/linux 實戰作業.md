@@ -59,49 +59,11 @@ Enter another number: 10
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 5.
 ```
 root@kali:~/python# gedit test5.py
 root@kali:~/python# python3 test5.py
 1 / 2 = 0.5
 1/2=0.5
-```
-
-
-
-
-## 8.
-```
-root@kali:~/python# gedit test8.py
-root@kali:~/python# python3 test8.py
-Welcome to the Mashup Game!
-Enter one full name(FIRST LAST): shih
-Enter another full name(FIRST LAST): jhih-yu
-shi
-shih
-jhih-y
-jhih-yu
 ```
 
