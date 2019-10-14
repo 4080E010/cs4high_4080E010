@@ -17,7 +17,7 @@ eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         RX packets 12309  bytes 17619341 (16.8 MiB)
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 5012  bytes 303743 (296.6 KiB)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0 
 
 lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
